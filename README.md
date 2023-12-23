@@ -1,4 +1,4 @@
-## commitr For Github
+# commitr For Github
 This is an Android app that lets you view your files and repos and lets you commit and schedule commit files to that repo on the go by using your GitHub access token. The app aims to make it easier and faster for you to manage your GitHub projects from your mobile device, without having to switch to a desktop or laptop.
 
 ## Features
